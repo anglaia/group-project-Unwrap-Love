@@ -2,6 +2,18 @@
 
 [Unwrap Love](https://unwrap.love/) is a digital gifting platform designed to create, customize, and share meaningful experiences with loved ones.
 
+## Project Team
+
+This project is a group collaboration. The team members include:
+
+- [MarlinDiary](https://github.com/MarlinDiary)  
+- [ylin330](https://github.com/ylin330)  
+- [Abdul-Muhammed](https://github.com/Abdul-Muhammed)  
+- [anglaia](https://github.com/anglaia)  
+- [SaikatBaidya](https://github.com/SaikatBaidya)  
+- [miachillgood](https://github.com/miachillgood)  
+- [LishaYUJ](https://github.com/LishaYUJ)  
+
 ## `/paper`
 
 ![Paper Feature Demo](assets/paper.gif)
